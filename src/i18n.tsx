@@ -75,8 +75,8 @@ const en = {
     toxSub: "2024 releases plus disposals, in kilograms, from the NPRI bulk files.",
     citeThis: "Cite this",
     copied: "Copied",
-    citeCombined: "The Facility Crosswalk (Open Nshipyard, 2026): Suncor Energy Inc. Oil Sands ranks 1st in 2024 GHG emissions (8.0M t CO2e) and 5th in toxic releases and disposals (126.1M kg) among 1,546 matched facilities. Sources: ECCC NPRI bulk files and GHGRP emissions-by-gas via open.canada.ca.",
-    citeTox: "The Facility Crosswalk (Open Nshipyard, 2026): Copper Mountain Mine reported 258.3M kg of toxic releases and disposals in 2024, the highest among 1,546 matched facilities, against 43,028 t CO2e. Sources: ECCC NPRI bulk files and GHGRP emissions-by-gas via open.canada.ca.",
+    citeCombined: "Carbon Emitters, Matched (Open Nshipyard, 2026): Suncor Energy Inc. Oil Sands ranks 1st in 2024 GHG emissions (8.0M t CO2e) and 5th in toxic releases and disposals (126.1M kg) among 1,546 matched facilities. Sources: ECCC NPRI bulk files and GHGRP emissions-by-gas via open.canada.ca.",
+    citeTox: "Carbon Emitters, Matched (Open Nshipyard, 2026): Copper Mountain Mine reported 258.3M kg of toxic releases and disposals in 2024, the highest among 1,546 matched facilities, against 43,028 t CO2e. Sources: ECCC NPRI bulk files and GHGRP emissions-by-gas via open.canada.ca.",
   },
   methodology: {
     kicker: "Methodology",

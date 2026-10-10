@@ -1,6 +1,6 @@
 # canada-facility-crosswalk
 
-**The Facility Crosswalk: which carbon emitters are also the worst toxic polluters.** Open Nshipyard project P2.
+**Carbon Emitters, Matched: which carbon emitters are also the worst toxic polluters.** Open Nshipyard project P2.
 
 Environment and Climate Change Canada runs two facility registries that share no published key. The Greenhouse Gas Reporting Program (GHGRP) names 1,879 emitters for 2024. The National Pollutant Release Inventory (NPRI) tracks 24,553 polluters since 1993. This project links them for the 2024 reporting year: 1,422 anchor matches on self-reported NPRI IDs, entity resolution for the rest, quarantine for the ambiguous.
 
