@@ -1,0 +1,19 @@
+{
+ "vintage": "2024 reporting year (NPRI reviewed; GHGRP latest)",
+ "npri_geo_facilities": 24543,
+ "ghgrp_2024_facilities": 1879,
+ "anchored": 1422,
+ "resolved": 124,
+ "unmatched": 333,
+ "anchor_rate": 75.7,
+ "match_rate": 82.3,
+ "npri_id_zero": 426,
+ "npri_id_blank": 22,
+ "temp_ids_found": 3,
+ "temp_ids_resolved": 0,
+ "temp_ids_quarantined": 0,
+ "ghg_total_tco2e": 249808704,
+ "toxic_releases_total_kg": 2386468125,
+ "matched_with_toxics": 1442,
+ "combined_ranked": 25
+}

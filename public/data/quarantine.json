@@ -1,0 +1,1010 @@
+[
+ {
+  "ghgrp_id": "G10003",
+  "ghgrp_name": "Foothills Pipeline, Alberta",
+  "candidate_npri_id": "6874",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10008",
+  "ghgrp_name": "Alliance Pipeline Ltd. - AB Pipeline System",
+  "candidate_npri_id": "6940",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10015",
+  "ghgrp_name": "ATCO Pipelines - Transmission System",
+  "candidate_npri_id": "6579",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10032",
+  "ghgrp_name": "Brock West Landfill",
+  "candidate_npri_id": "11549",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10038",
+  "ghgrp_name": "TransCanada Pipeline, Saskatchewan",
+  "candidate_npri_id": "6754",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10086",
+  "ghgrp_name": "ATCO Gas - Distribution System",
+  "candidate_npri_id": "6579",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10104",
+  "ghgrp_name": "Foothills Pipeline, British Columbia System",
+  "candidate_npri_id": "6712",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10126",
+  "ghgrp_name": "Gathering",
+  "candidate_npri_id": "7720",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10158",
+  "ghgrp_name": "Karr 10-10-065-02 W6M",
+  "candidate_npri_id": "15986",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10163",
+  "ghgrp_name": "TransCanada Pipeline, Ontario",
+  "candidate_npri_id": "29126",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10244",
+  "ghgrp_name": "TransCanada Pipeline, Manitoba",
+  "candidate_npri_id": "6764",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10248",
+  "ghgrp_name": "Foothills Pipeline, Saskatchewan",
+  "candidate_npri_id": "6876",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10257",
+  "ghgrp_name": "Alliance Pipeline Ltd. - SK Pipeline System",
+  "candidate_npri_id": "6943",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10279",
+  "ghgrp_name": "Summit Road Landfill",
+  "candidate_npri_id": "5385",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10324",
+  "ghgrp_name": "PAW In-Situ Oilsands Facilities",
+  "candidate_npri_id": "15926",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10346",
+  "ghgrp_name": "FortisBC Energy Inc.",
+  "candidate_npri_id": "7860",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10379",
+  "ghgrp_name": "Transfer Station No. 2",
+  "candidate_npri_id": "11455",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10431",
+  "ghgrp_name": "Wild River 04-03-57-23W5M",
+  "candidate_npri_id": "22978",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10444",
+  "ghgrp_name": "Kilcona Landfill",
+  "candidate_npri_id": "5385",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10451",
+  "ghgrp_name": "Narraway Sweet Gas Plant 10-08",
+  "candidate_npri_id": "27500",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10560",
+  "ghgrp_name": "PETROMET BIGSTONE WEST FIR 14-28-59-22",
+  "candidate_npri_id": "32028",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10618",
+  "ghgrp_name": "Montreal Facility",
+  "candidate_npri_id": "4402",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10724",
+  "ghgrp_name": "Spec Furniture",
+  "candidate_npri_id": "11043",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10760",
+  "ghgrp_name": "TransCanada Pipeline, Quebec",
+  "candidate_npri_id": "21888",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10865",
+  "ghgrp_name": "Lieu d'enfouissement technique",
+  "candidate_npri_id": "8774",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10940",
+  "ghgrp_name": "South Hiding Creek Comp Station B-053-A",
+  "candidate_npri_id": "15716",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10970",
+  "ghgrp_name": "Birch Oil Battery c-018-I/94-A-13",
+  "candidate_npri_id": "22096",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G10978",
+  "ghgrp_name": "Wapiti Compressor Station 07-22",
+  "candidate_npri_id": "31198",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11196",
+  "ghgrp_name": "Wild Hay Gas Battery 13-24",
+  "candidate_npri_id": "21099",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11200",
+  "ghgrp_name": "Smoky Sweet Gas Plant 07-36",
+  "candidate_npri_id": "28846",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11205",
+  "ghgrp_name": "Ferrier 01-34-040-09 W5M",
+  "candidate_npri_id": "28879",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11238",
+  "ghgrp_name": "Dunvegan Plant 15-03-081-04 W6M",
+  "candidate_npri_id": "22057",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11262",
+  "ghgrp_name": "Teepee Creek Plant 07-02-074-04 W6M",
+  "candidate_npri_id": "18555",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11307",
+  "ghgrp_name": "Ferrier 01-20-039-07 W5M",
+  "candidate_npri_id": "27196",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11309",
+  "ghgrp_name": "GoodFish South Sour Gas Plant 03-32",
+  "candidate_npri_id": "28865",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11311",
+  "ghgrp_name": "Eaglesham Culp 05-34-078-25 W5M",
+  "candidate_npri_id": "29660",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11320",
+  "ghgrp_name": "South Wapiti 16-36",
+  "candidate_npri_id": "18545",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11341",
+  "ghgrp_name": "Elm Street Landfill Site",
+  "candidate_npri_id": "11891",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11523",
+  "ghgrp_name": "Comox Valley Waste Management Centre",
+  "candidate_npri_id": "7944",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11530",
+  "ghgrp_name": "South Health Campus",
+  "candidate_npri_id": "15739",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11537",
+  "ghgrp_name": "Rockyview General Hospital",
+  "candidate_npri_id": "15739",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11540",
+  "ghgrp_name": "1200 Montreal Road Campus",
+  "candidate_npri_id": "11707",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11542",
+  "ghgrp_name": "Cliffdale Oil Battery 03-25-084-17W5",
+  "candidate_npri_id": "29648",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11567",
+  "ghgrp_name": "Cantuar Oil MWB 15-15",
+  "candidate_npri_id": "16928",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11601",
+  "ghgrp_name": "Park Road Landfill",
+  "candidate_npri_id": "3674",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11624",
+  "ghgrp_name": "1972 Landfill (non-operating)",
+  "candidate_npri_id": "5378",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11637",
+  "ghgrp_name": "Ansell Sweet Gas Plant 01-24",
+  "candidate_npri_id": "15791",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11639",
+  "ghgrp_name": "Cecilia 14-36-057-23 W5M",
+  "candidate_npri_id": "22978",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11641",
+  "ghgrp_name": "Knopcik Gas Plant 09-10-074-11 W6M",
+  "candidate_npri_id": "22060",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11642",
+  "ghgrp_name": "Duncan Compressor Station 10-36",
+  "candidate_npri_id": "15919",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11643",
+  "ghgrp_name": "Chinchaga 01-24-096-05 W6M",
+  "candidate_npri_id": "27266",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11644",
+  "ghgrp_name": "Tilley West Compressor Station 01-03",
+  "candidate_npri_id": "15912",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11651",
+  "ghgrp_name": "City of Medicine Hat Landfill",
+  "candidate_npri_id": "18590",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11672",
+  "ghgrp_name": "Natural Gas Distribution System",
+  "candidate_npri_id": "823",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11689",
+  "ghgrp_name": "Morningside 11-35-042-01W5 Compressor",
+  "candidate_npri_id": "16724",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11691",
+  "ghgrp_name": "Marlboro Gas Plant 05-29-055-19W5 (GHGRP)",
+  "candidate_npri_id": "30042",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11692",
+  "ghgrp_name": "SOUTH ROSEVEAR 11-36-053-15W5 Compressor",
+  "candidate_npri_id": "31065",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11693",
+  "ghgrp_name": "Willesden Green 10-34-040-06W5 Compressor",
+  "candidate_npri_id": "21289",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11694",
+  "ghgrp_name": "Pine Creek 12-02-056-19W5 Compressor (GHGRP)",
+  "candidate_npri_id": "26064",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11695",
+  "ghgrp_name": "Ansell Gas Plant 12-31-050-17W5 (GHGRP)",
+  "candidate_npri_id": "29559",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11696",
+  "ghgrp_name": "Gilby 03-28-041-04W5 Compressor",
+  "candidate_npri_id": "24348",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11697",
+  "ghgrp_name": "BILBO GAS PLANT 4-25-65-7W6",
+  "candidate_npri_id": "29726",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11702",
+  "ghgrp_name": "Fort McMurray Regional Landfill",
+  "candidate_npri_id": "6501",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11761",
+  "ghgrp_name": "Dodsland 07-05-032-22W3",
+  "candidate_npri_id": "19060",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11771",
+  "ghgrp_name": "Lieu d'enfouissement Sanitiare de la Ville de Sherbrooke",
+  "candidate_npri_id": "6354",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11852",
+  "ghgrp_name": "Lieu d'enfouissement sanitaire Chibougamau",
+  "candidate_npri_id": "8567",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G11897",
+  "ghgrp_name": "Strachan 05-34-037-08W5 Compressor (GHGRP)",
+  "candidate_npri_id": "21289",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12148",
+  "ghgrp_name": "Jackfish District",
+  "candidate_npri_id": "15874",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12151",
+  "ghgrp_name": "Clover Bar Landfills",
+  "candidate_npri_id": "6513",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12161",
+  "ghgrp_name": "Hydro One Networks",
+  "candidate_npri_id": "11518",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12201",
+  "ghgrp_name": "Bonterra 05-35 Sweet Gas Plant",
+  "candidate_npri_id": "17489",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12220",
+  "ghgrp_name": "Bonterra 10-15 Sweet Gas Plant",
+  "candidate_npri_id": "35476",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12225",
+  "ghgrp_name": "Septimus 14-16-081-18W6",
+  "candidate_npri_id": "23836",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12238",
+  "ghgrp_name": "Bilbo Comp Stn 04-32-065-07W6",
+  "candidate_npri_id": "22066",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12245",
+  "ghgrp_name": "CS 09-02-048-06W5 (ABCS0136852)",
+  "candidate_npri_id": "17489",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12253",
+  "ghgrp_name": "Daiber Gas MWB d-044-C/094-B-16",
+  "candidate_npri_id": "18512",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12298",
+  "ghgrp_name": "Copper Cliff Mining, Smelting and Refining Complex",
+  "candidate_npri_id": "1469",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12304",
+  "ghgrp_name": "Eagle River Mill",
+  "candidate_npri_id": "31706",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12309",
+  "ghgrp_name": "Beare Road Landfill",
+  "candidate_npri_id": "11549",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12318",
+  "ghgrp_name": "Ansell MWB 03-06-049-18W5",
+  "candidate_npri_id": "22774",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12329",
+  "ghgrp_name": "NGTL, British Columbia System",
+  "candidate_npri_id": "31841",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12336",
+  "ghgrp_name": "Thackeray Landfill",
+  "candidate_npri_id": "11549",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12339",
+  "ghgrp_name": "Pipestone South Gas Battery 14-17",
+  "candidate_npri_id": "28644",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12340",
+  "ghgrp_name": "AG20 ABGP0001220 NEVIS 12-07 GP",
+  "candidate_npri_id": "19457",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12342",
+  "ghgrp_name": "Pipestone Compressor Station 08-15-070-08W6",
+  "candidate_npri_id": "34183",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12346",
+  "ghgrp_name": "AG20 ABBT0118889 IRRICANA 10-22 BTY",
+  "candidate_npri_id": "16126",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12361",
+  "ghgrp_name": "AG20 ABBT0097122 FOSTER 08-28 BTY",
+  "candidate_npri_id": "24484",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12362",
+  "ghgrp_name": "AG20 ABGS0121501 ACME 16-07 GGS",
+  "candidate_npri_id": "24484",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12363",
+  "ghgrp_name": "AG20 ABBT0141226 ENTICE 01-22 BTY",
+  "candidate_npri_id": "16603",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12371",
+  "ghgrp_name": "AG20 ABGS0003808 FENN BV 12-15 GGS",
+  "candidate_npri_id": "22005",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12386",
+  "ghgrp_name": "AG20 ABGS0004506 GAYFORD 12-35 GGS",
+  "candidate_npri_id": "16603",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12399",
+  "ghgrp_name": "BILBO 04-25 GROUP GAS BTY",
+  "candidate_npri_id": "22327",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12401",
+  "ghgrp_name": "Wintering Hills gas Plant 01-18-025-17W4",
+  "candidate_npri_id": "30206",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12440",
+  "ghgrp_name": "Birchmount Energy Centre",
+  "candidate_npri_id": "11788",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12445",
+  "ghgrp_name": "CS12 14-11 Hub",
+  "candidate_npri_id": "16489",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12455",
+  "ghgrp_name": "Bimbo Canada EPS - Integrated Facility",
+  "candidate_npri_id": "25064",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12501",
+  "ghgrp_name": "AG20 ABGS0084509 DRY ISLAND GGS",
+  "candidate_npri_id": "29014",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12530",
+  "ghgrp_name": "Alberta Carbon Trunk Line",
+  "candidate_npri_id": "28629",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12544",
+  "ghgrp_name": "Pembina 09-17-050-07W5",
+  "candidate_npri_id": "22414",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12560",
+  "ghgrp_name": "PRESSTRAN INDUSTRIES (1155 Talbot St)",
+  "candidate_npri_id": "2683",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12565",
+  "ghgrp_name": "180 Viceroy RD",
+  "candidate_npri_id": "5757",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12613",
+  "ghgrp_name": "Willesden Green 11-19-041-05W5 Compressor",
+  "candidate_npri_id": "24348",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12621",
+  "ghgrp_name": "Integrated Hot Mix",
+  "candidate_npri_id": "10960",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12625",
+  "ghgrp_name": "Calling Lake South 01-20",
+  "candidate_npri_id": "18425",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12638",
+  "ghgrp_name": "Doe Gas Plant",
+  "candidate_npri_id": "34438",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12651",
+  "ghgrp_name": "ABBT0060208",
+  "candidate_npri_id": "22978",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12652",
+  "ghgrp_name": "Edmonton Organics Processing Facility",
+  "candidate_npri_id": "6513",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12653",
+  "ghgrp_name": "BCBT0009073",
+  "candidate_npri_id": "15722",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12659",
+  "ghgrp_name": "Ferrier 07-18-040-09 W5M",
+  "candidate_npri_id": "28879",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12675",
+  "ghgrp_name": "ABBT0153027",
+  "candidate_npri_id": "22057",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12688",
+  "ghgrp_name": "ABBT0066632",
+  "candidate_npri_id": "22978",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12693",
+  "ghgrp_name": "ABBT0150246",
+  "candidate_npri_id": "29648",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12699",
+  "ghgrp_name": "Elmworth Gas MWB 01-08-070-11W6",
+  "candidate_npri_id": "21322",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12717",
+  "ghgrp_name": "Lieu d'enfouissement technique de la Ville de Matane",
+  "candidate_npri_id": "8508",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12737",
+  "ghgrp_name": "Miller Central Integrated Asphalt and Aggregate",
+  "candidate_npri_id": "11362",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12749",
+  "ghgrp_name": "Kaybob 02-20-060-19W5 MWB",
+  "candidate_npri_id": "32779",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12762",
+  "ghgrp_name": "AG20 ABGP0001429 SWALWELL GAS PLANT",
+  "candidate_npri_id": "24484",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12768",
+  "ghgrp_name": "Narraway Gas MWB 10-08-062-10W6",
+  "candidate_npri_id": "27500",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12769",
+  "ghgrp_name": "Progress Gas MWB 01-01-078-10W6",
+  "candidate_npri_id": "17990",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12771",
+  "ghgrp_name": "Peavine 13-25-078-16W5",
+  "candidate_npri_id": "33242",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12772",
+  "ghgrp_name": "Peavine 05-25-078-16W5",
+  "candidate_npri_id": "33242",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12774",
+  "ghgrp_name": "ABCS0014441",
+  "candidate_npri_id": "22037",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12775",
+  "ghgrp_name": "BCBT0007778",
+  "candidate_npri_id": "32833",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12776",
+  "ghgrp_name": "ABBT0143321",
+  "candidate_npri_id": "15986",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12780",
+  "ghgrp_name": "ABBT0126676",
+  "candidate_npri_id": "15791",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12790",
+  "ghgrp_name": "03-13-066-05W6 Comp",
+  "candidate_npri_id": "28706",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12799",
+  "ghgrp_name": "KELT LNG OAK 06-35 MWGEB",
+  "candidate_npri_id": "28620",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12845",
+  "ghgrp_name": "AG20 ABGS0111621 Linden 01-36 GS",
+  "candidate_npri_id": "24484",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12871",
+  "ghgrp_name": "ABGS0143057",
+  "candidate_npri_id": "32247",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12875",
+  "ghgrp_name": "Peter Lougheed Centre",
+  "candidate_npri_id": "15739",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12876",
+  "ghgrp_name": "Arthur J.E. Child Cancer Centre",
+  "candidate_npri_id": "15739",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12880",
+  "ghgrp_name": "Trans Mountain Pipeline System, BC",
+  "candidate_npri_id": "21561",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12890",
+  "ghgrp_name": "BEG C-078-E Compressor Station CS C-078",
+  "candidate_npri_id": "17962",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12891",
+  "ghgrp_name": "Well at D-082-J/094-B-09",
+  "candidate_npri_id": "17962",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12904",
+  "ghgrp_name": "ROSE CREEK 6-7-43-6W5 GGS",
+  "candidate_npri_id": "21539",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12905",
+  "ghgrp_name": "Drilling and Completions 7-1 Pad",
+  "candidate_npri_id": "27549",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12906",
+  "ghgrp_name": "Drilling and Completions 16-32 Pad",
+  "candidate_npri_id": "27549",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12909",
+  "ghgrp_name": "ABBT0165264",
+  "candidate_npri_id": "33242",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12911",
+  "ghgrp_name": "ABBT0166619",
+  "candidate_npri_id": "33242",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12912",
+  "ghgrp_name": "ABBT0166386",
+  "candidate_npri_id": "33242",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12924",
+  "ghgrp_name": "ABBT2630003",
+  "candidate_npri_id": "27266",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12932",
+  "ghgrp_name": "South Caroline 03-20-034-04W5 Compressor",
+  "candidate_npri_id": "34664",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12933",
+  "ghgrp_name": "Ferrybank 02-01-044-28W4 Gas Plant (GHGRP)",
+  "candidate_npri_id": "16724",
+  "reason": "low similarity score",
+  "score": 0.85
+ },
+ {
+  "ghgrp_id": "G12955",
+  "ghgrp_name": "03-31-062-21W5",
+  "candidate_npri_id": "30595",
+  "reason": "low similarity score",
+  "score": 0.85
+ }
+]

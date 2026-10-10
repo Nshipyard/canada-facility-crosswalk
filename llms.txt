@@ -1,0 +1,45 @@
+# The Facility Crosswalk
+
+Open Nshipyard project: the missing key between Canada's two federal facility emissions registries.
+
+## What it is
+
+Environment and Climate Change Canada (ECCC) runs two facility-level registries that share no published join key:
+
+- The **National Pollutant Release Inventory (NPRI)**: 24,553 facilities in the geolocations master file, reporting releases to air, water, and land plus disposals and transfers since 1993.
+- The **Greenhouse Gas Reporting Program (GHGRP)**: 1,879 facilities reporting 2024 emissions, 291.7 million tonnes of CO2 equivalent.
+
+This project links them for the 2024 reporting year. 1,422 facilities anchor-match on self-reported NPRI IDs. Entity resolution on normalized names, addresses, and companies (with a 25 km spatial sanity check) recovers more. Ambiguous matches are quarantined, never guessed. The combined per-facility view answers: which carbon emitters are also the worst toxic polluters.
+
+## Data files (public/data/)
+
+- `facilities.json`: one record per matched facility. NPRI ID, GHGRP ID, facility name, company, city, province, coordinates, NAICS, sector, GHG tonnes CO2e, toxic releases/disposals/transfers in kg, match method, confidence tier.
+- `crosswalk.csv`: the join table. npri_id, ghgrp_id, match_method (anchored/resolved), confidence (high/medium), temp_id_aliases.
+- `ranking_combined.json`: top 25 by rank-sum of GHG rank and toxics rank.
+- `ranking_ghg.json`, `ranking_toxics.json`: top 25 single-axis rankings.
+- `stats.json`: match statistics and totals.
+- `provinces.json`: per-province aggregates.
+- `quarantine.json`: quarantined ambiguous matches and temp-ID resolutions.
+- `temp_id_aliases.json`: temp NPRI IDs resolved to permanent IDs.
+
+## API
+
+- `GET /api/v1/facility/search?q=&province=&method=&limit=` : search matched facilities.
+- `GET /api/v1/facility/lookup?npri_id=` (or `?ghgrp_id=`) : full combined record.
+- `GET /api/v1/crosswalk/summary` : match stats, rankings, province aggregates.
+- `GET /api/openapi.json` : OpenAPI 3.1 spec.
+- `POST /mcp` : MCP server (streamable HTTP, JSON-RPC 2.0). Tools: facility_lookup, crosswalk_search, match_stats.
+
+## Method
+
+`scripts/build_crosswalk.py` is the full reproducible pipeline: download from the ECCC Data Mart, aggregate 2024 NPRI quantities (units normalized to kg), anchor-match on Facility NPRI ID, resolve temp IDs by normalized name, entity-resolve the unanchored with a 0.90 similarity floor and spatial check, quarantine the rest.
+
+## Limits
+
+2024 reporting year on both sides. NPRI has its own reporting thresholds, so small polluters are absent. GHGRP covers facilities emitting 10 kt CO2e or more. 426 GHGRP facilities report NPRI ID as the bare digit 0 (a placeholder). 22 leave it blank. Toxic totals are releases plus disposals, summed in kilograms. Transfers for recycling are excluded pending a complete retrieval of the transfers bulk file. Different substances have different harm per kilogram.
+
+## License
+
+Code and derived tables: MIT. Source data: Open Government Licence - Canada. Not affiliated with the Government of Canada or ECCC.
+
+Author: Richardson Dackam, https://x.com/richardsondx, https://github.com/richardsondx

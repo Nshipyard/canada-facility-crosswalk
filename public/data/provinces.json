@@ -1,0 +1,67 @@
+{
+ "QC": {
+  "facilities": 182,
+  "ghg_tco2e": 21362891,
+  "toxic_kg": 779517481
+ },
+ "ON": {
+  "facilities": 317,
+  "ghg_tco2e": 46500794,
+  "toxic_kg": 613611794
+ },
+ "AB": {
+  "facilities": 620,
+  "ghg_tco2e": 121796330,
+  "toxic_kg": 1248381889
+ },
+ "BC": {
+  "facilities": 197,
+  "ghg_tco2e": 14767922,
+  "toxic_kg": 917112230
+ },
+ "NB": {
+  "facilities": 20,
+  "ghg_tco2e": 6940627,
+  "toxic_kg": 40921265
+ },
+ "SK": {
+  "facilities": 129,
+  "ghg_tco2e": 25558991,
+  "toxic_kg": 239563480
+ },
+ "MB": {
+  "facilities": 26,
+  "ghg_tco2e": 1798452,
+  "toxic_kg": 25396742
+ },
+ "NS": {
+  "facilities": 18,
+  "ghg_tco2e": 5889877,
+  "toxic_kg": 50367327
+ },
+ "NL": {
+  "facilities": 16,
+  "ghg_tco2e": 3745962,
+  "toxic_kg": 227569139
+ },
+ "PE": {
+  "facilities": 3,
+  "ghg_tco2e": 53189,
+  "toxic_kg": 283695
+ },
+ "NT": {
+  "facilities": 8,
+  "ghg_tco2e": 636299,
+  "toxic_kg": 34714266
+ },
+ "NU": {
+  "facilities": 8,
+  "ghg_tco2e": 705363,
+  "toxic_kg": 100238788
+ },
+ "YT": {
+  "facilities": 2,
+  "ghg_tco2e": 52007,
+  "toxic_kg": 1964764
+ }
+}
