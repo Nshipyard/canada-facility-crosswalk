@@ -1,12 +1,16 @@
 # Chart insight specs: The Facility Crosswalk
 
+**What the crosswalk is:** a facility-identity table. One row per physical plant, linking its toxic-pollutant record (NPRI, the National Pollutant Release Inventory) to its carbon-emissions record (GHGRP, the Greenhouse Gas Reporting Program). 1,879 facilities for 2024. Every chart below is drawn from that joined table.
+
+**FR :** Une table d'identité des installations : une ligne par usine, reliant son dossier de polluants toxiques (INRP, l'Inventaire national des rejets de polluants) à son dossier d'émissions de carbone (PDGES, le Programme de déclaration des gaz à effet de serre). 1 879 installations pour 2024. Chaque graphique ci-dessous est tiré de cette table jointe.
+
 ## EN
 
 ### 1. Match-rate donut (hero chart)
 
 **What it shows:** The 1,879 GHGRP facilities for 2024 split into three buckets: 1,422 anchored (75.7%), 124 name/address resolved (6.6%), 333 unmatched (17.7%).
 
-**Insight:** Three quarters of the crosswalk needed no inference at all. The self-reported NPRI ID field does the work. The interesting slice is the 426 facilities that wrote the bare digit 0: a placeholder that silently breaks the join for nearly a quarter of reporters.
+**Insight:** Three quarters of the 1,879 facilities matched with no inference at all. The self-reported NPRI ID field does the work. The interesting slice is the 426 facilities that wrote the bare digit 0: a placeholder that silently breaks the join for nearly a quarter of reporters.
 
 **Build notes:** SVG donut, red/navy/gray segments. Center label shows the 82.3% total match rate. Caption names the 0-placeholder explicitly.
 
@@ -30,7 +34,7 @@
 
 **What it shows:** Top 10 by 2024 GHG tonnes CO2e. Suncor 8.0M, Horizon 6.0M, Firebag 5.7M, Cold Lake 5.7M, Genesee 4.7M.
 
-**Insight:** The carbon list is an oil sands and thermal power list. Every one of the top 5 sits in Alberta. The toxics column beside each bar is the value-add of the crosswalk: Genesee's 12.0M kg of toxics would be invisible in a GHG-only ranking.
+**Insight:** The carbon list is an oil sands and thermal power list. Every one of the top 5 sits in Alberta. The toxics column beside each bar is the value-add of joining the two registries: Genesee's 12.0M kg of toxics would be invisible in a GHG-only ranking.
 
 ### 5. Largest toxic polluters
 
@@ -44,7 +48,7 @@
 
 **Contenu :** Les 1 879 installations du PDGES pour 2024 en trois seaux : 1 422 directes (75,7 %), 124 résolues par nom/adresse (6,6 %), 333 non appariées (17,7 %).
 
-**Enseignement :** Les trois quarts de la table n'ont exigé aucune inférence. Le champ d'ID INRP déclaré fait le travail. La tranche intéressante est celle des 426 installations qui ont inscrit le simple chiffre 0 : un espace réservé qui casse silencieusement la jointure pour près du quart des déclarants.
+**Enseignement :** Les trois quarts des 1 879 installations se sont appariées sans aucune inférence. Le champ d'ID INRP déclaré fait le travail. La tranche intéressante est celle des 426 installations qui ont inscrit le simple chiffre 0 : un espace réservé qui casse silencieusement la jointure pour près du quart des déclarants.
 
 ### 2. Carte des installations (pièce maîtresse)
 
@@ -62,7 +66,7 @@
 
 **Contenu :** Top 10 des GES 2024 en tonnes d'éq. CO2. Suncor 8,0 M, Horizon 6,0 M, Firebag 5,7 M, Cold Lake 5,7 M, Genesee 4,7 M.
 
-**Enseignement :** La liste carbone est une liste de sables bitumineux et de centrales thermiques. Les cinq premiers sont tous en Alberta. La colonne toxiques à côté de chaque barre est la valeur ajoutée de la table : les 12,0 M kg de toxiques de Genesee seraient invisibles dans un classement GES seul.
+**Enseignement :** La liste carbone est une liste de sables bitumineux et de centrales thermiques. Les cinq premiers sont tous en Alberta. La colonne toxiques à côté de chaque barre est la valeur ajoutée de la jointure des deux registres : les 12,0 M kg de toxiques de Genesee seraient invisibles dans un classement GES seul.
 
 ### 5. Plus gros pollueurs toxiques
 
