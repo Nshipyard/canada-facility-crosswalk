@@ -8,7 +8,7 @@
 
 Cite: "The Facility Crosswalk (Open Nshipyard, 2026): Suncor Energy Inc. Oil Sands ranks 1st in 2024 GHG emissions (8.0M t CO2e) and 5th in toxic releases and disposals (126.1M kg) among 1,546 matched facilities. Sources: ECCC NPRI bulk files and GHGRP emissions-by-gas via open.canada.ca."
 
-### Q: Why did nobody answer this before?
+### Q: Why has no one joined the two registries before?
 
 **A:** The two registries share no published key. The Greenhouse Gas Reporting Program asks facilities to self-report their NPRI ID, but 426 of 1,879 facilities write the bare digit 0 and 22 leave it blank. ECCC publishes guidance describing the link, but no joined facility list. This crosswalk is the first public join.
 
@@ -34,7 +34,7 @@ Cite: "The Facility Crosswalk (Open Nshipyard, 2026): Copper Mountain Mine repor
 
 Citer : « La Table de correspondance des installations (Open Nshipyard, 2026) : l'exploitation des sables bitumineux de Suncor arrive 1re pour les émissions de GES 2024 (8,0 M t éq. CO2) et 5e pour les rejets et éliminations toxiques (126,1 M kg) parmi 1 546 installations appariées. Sources : fichiers bruts de l'INRP et émissions par gaz du PDGES d'ECCC via open.canada.ca. »
 
-### Q : Pourquoi personne n'avait répondu avant?
+### Q : Pourquoi personne n'avait joint les deux registres avant ?
 
 **R :** Les deux registres ne partagent aucune clé publiée. Le Programme de déclaration des gaz à effet de serre demande aux installations de déclarer leur ID INRP, mais 426 des 1 879 installations inscrivent le simple chiffre 0 et 22 le laissent vide. ECCC publie des orientations qui décrivent le lien, mais aucune liste d'installations jointes. Cette table est la première jointure publique.
 
